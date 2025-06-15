@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>課題 tp_job4</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="ここにサイト説明を入れます">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div id="container">
+
+<header>
+<h1 id="logo"><a href="index909.html"><img src="images/logo.png" alt="JOB INFO"></a></h1>
+<!--メインメニュー-->
+<nav id="menubar">
+<ul>
+<li><a href="">時間割<span>time table</span></a>
+	<ul>
+	<li><a href="1year.html">一年</a></li>
+	<li><a href="2year.html">二年</a></li>
+	<li><a href="#">三年</a></li>
+	</ul>
+</li>
+<li><a href="info.html">課題<span>Homework</span></a>
+	<ul>
+		<li><a href="1year.html">一年</a></li>
+		<li><a href="2year.html">二年</a></li>
+		<li><a href="#">三年</a></li>
+		</ul>
+</li>
+<li><a href="">行事<span>event</span></a>
+	<ul>
+	<li><a href="faq.html">体育祭</a></li>
+	<li><a href="faq.html">四葉祭</a></li>
+	<li><a href="faq.html">修学旅行</a></li>
+
+	</ul>
+</li>
+<li><a href="">テスト<span>tests</span></a>
+		<ul>
+		<li><a href="output.html">一年</a></li>
+		<li><a href=2year tests.html">二年</a></li>
+		<li><a href="output.html">三年</a></li>
+
+		</ul>
+		</li>
+</ul>
+</nav>
+</header>
+<main>
+
+
+<section>
+
+<h2>課題一覧（listタイプ）</h2>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRzoh-UAIM-g77R8Ss64lDUT_juqWh-TSMLecY3ic5-9ortA8vCNxQTNZm3DTBsEFlw4lZL7VLZ-1sa/pubhtml?widget=true&amp;headers=false"></iframe>
+<!--/.list-container-->
+
+</section>
+<section>
+
+    
+    </section>
+    
+    <section>
+    
+    <h2>冬休みの課題</h2>
+    
+    <div class="list-container">
+    
+    <div class="list">
+        <div>
+        <h4>EC </h4>
+            <dl class="line">
+            <dt>課題</dt>
+            <dd>スタディサプリ</dd>
+            <dt>課題内容</dt>
+            <dd>28本の動画を視聴後、確認テスト全問回答</dd>
+            <dt>提出期限</dt>
+            <dd>1月8日</dd>
+           
+            </dl>
+        </div>
+        <p class="btn"><a href="">fight!</a></p>
+    </div>
+    
+    <div class="list">
+        <div>        
+        </h4>言語文化</h4>
+            <dl class="line">
+            <dt>課題</dt>
+            <dd>古文単語</dd>
+            <dt>課題内容</dt>
+            <dd>p211～230までを確認</dd>
+            <dt>提出期限</dt>
+            <dd>提出なし</dd>
+           
+            </dl>
+        </div>
+        <p class="btn"><a href="">fight!</a></p>
+    </div>
+    
+    <div class="list">
+        <div>
+        <h4>論理表現</h4>
+            <dl class="line">
+            <dt>課題</dt>
+            <dd>英単語</dd>
+            <dt>課題内容</dt>
+            <dd>p10～329までを確認</dd>
+            <dt>提出期限</dt>
+            <dd>提出なし</dd>
+            
+            </dl>
+        </div>
+        <p class="btn"><a href="">fight!</a></p>
+    </div>
+    
+    <div class="list">
+        <div>
+        <h4>数学</h4>
+            <dl class="line">
+            <dt>課題</dt>
+            <dd>青チャート</dd>
+            <dt>課題内容</dt>
+            <dd>数1Aクラス・数Ⅱ指数関数 
+                数1Bクラス・数Ⅰ三角比
+            </dd>
+            <dt>提出期限</dt>
+            <dd>数学初回授業にて提出</dd>
+           
+            </dl>
+        </div>
+       <p class="btn"><a href="">fight!</a></p>
+    </div>
+    
+    </div>
+    <!--/.list-container-->
+<section>
+<section>
+
+<h2>ピックアップ課題入力(1年)</h2>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1LMA3J65DQ59zJDXka6hFTf0rTtXhsufqHv8sFiM2rrPy-A/viewform?embedded=true" width="640" height="1941" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+
+<!--/.pickup-->
+
+</section>
+
+<h2>時間割</h2>
+<h2>1組</h2>
+
+<table class="Table">
+    <thead class="Table-Head">
+    <tr class="Table-Head-Row">
+        <th class="Table-Head-Row-Cell">月曜日</th>
+        <th class="Table-Head-Row-Cell">火曜日</th>
+        <th class="Table-Head-Row-Cell">水曜日</th>
+		<th class="Table-Head-Row-Cell">木曜日</th>
+		<th class="Table-Head-Row-Cell">金曜日</th>
+    </tr>
+    </thead>
+    <tbody class="Table-Body">
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">美術・音楽</td>
+        <td class="Table-Body-Row-Cell">言語文化</td>
+        <td class="Table-Body-Row-Cell">体育</td>
+		<td class="Table-Body-Row-Cell">理数数学1+A</td>
+        <td class="Table-Body-Row-Cell">理数化学</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">美術・音楽</td>
+        <td class="Table-Body-Row-Cell">現代の国語</td>
+        <td class="Table-Body-Row-Cell">保健</td>
+		<td class="Table-Body-Row-Cell">現代の国語</td>
+        <td class="Table-Body-Row-Cell">理数化学</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">理数生物</td>
+        <td class="Table-Body-Row-Cell">論理表現１</td>
+        <td class="Table-Body-Row-Cell">理数数学1+A</td>
+		<td class="Table-Body-Row-Cell">EC1</td>
+        <td class="Table-Body-Row-Cell">論理表現１</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">理数生物</td>
+        <td class="Table-Body-Row-Cell">理数数学1+B</td>
+        <td class="Table-Body-Row-Cell">公共</td>
+		<td class="Table-Body-Row-Cell">EC1</td>
+        <td class="Table-Body-Row-Cell">歴史総合</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">EC1</td>
+        <td class="Table-Body-Row-Cell">理数化学</td>
+        <td class="Table-Body-Row-Cell">理数数学1+B</td>
+		<td class="Table-Body-Row-Cell">体育</td>
+        <td class="Table-Body-Row-Cell">理数数学1+A</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">公共</td>
+        <td class="Table-Body-Row-Cell">理数物理</td>
+        <td class="Table-Body-Row-Cell">情報１</td>
+		<td class="Table-Body-Row-Cell">言語文化</td>
+        <td class="Table-Body-Row-Cell">創造理数探求基礎</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">歴史総合</td>
+        <td class="Table-Body-Row-Cell">理数物理</td>
+        <td class="Table-Body-Row-Cell">情報1</td>
+		<td class="Table-Body-Row-Cell">LHR</td>
+        <td class="Table-Body-Row-Cell">創造理数探求基礎</td>
+    </tr>
+
+	
+    </tbody>
+</table>
+<h2>2組</h2>
+
+<table class="Table">
+    <thead class="Table-Head">
+    <tr class="Table-Head-Row">
+        <th class="Table-Head-Row-Cell">月曜日</th>
+        <th class="Table-Head-Row-Cell">火曜日</th>
+        <th class="Table-Head-Row-Cell">水曜日</th>
+		<th class="Table-Head-Row-Cell">木曜日</th>
+		<th class="Table-Head-Row-Cell">金曜日</th>
+    </tr>
+    </thead>
+    <tbody class="Table-Body">
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">美術・音楽</td>
+        <td class="Table-Body-Row-Cell">論理表現１</td>
+        <td class="Table-Body-Row-Cell">体育</td>
+		<td class="Table-Body-Row-Cell">公共</td>
+        <td class="Table-Body-Row-Cell">現代の国語</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">美術・音楽</td>
+        <td class="Table-Body-Row-Cell">数学１</td>
+        <td class="Table-Body-Row-Cell">生物基礎</td>
+		<td class="Table-Body-Row-Cell">化学基礎</td>
+        <td class="Table-Body-Row-Cell">数学A</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">数学１</td>
+        <td class="Table-Body-Row-Cell">生物基礎</td>
+        <td class="Table-Body-Row-Cell">EC1</td>
+		<td class="Table-Body-Row-Cell">数学１</td>
+        <td class="Table-Body-Row-Cell">言語文化</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">現代の国語</td>
+        <td class="Table-Body-Row-Cell">化学基礎</td>
+        <td class="Table-Body-Row-Cell">EC1</td>
+		<td class="Table-Body-Row-Cell">保健</td>
+        <td class="Table-Body-Row-Cell">工業情報数理</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">数学A</td>
+        <td class="Table-Body-Row-Cell">言語文化</td>
+        <td class="Table-Body-Row-Cell">SS工学技術基礎</td>
+		<td class="Table-Body-Row-Cell">体育</td>
+        <td class="Table-Body-Row-Cell">EC1</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">物理基礎</td>
+        <td class="Table-Body-Row-Cell">SS科学技術探究</td>
+        <td class="Table-Body-Row-Cell">工学技術基礎</td>
+		<td class="Table-Body-Row-Cell">工業情報数理</td>
+        <td class="Table-Body-Row-Cell">論理表現１</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">物理基礎</td>
+        <td class="Table-Body-Row-Cell">SS科学技術探究</td>
+        <td class="Table-Body-Row-Cell">SS工学技術基礎</td>
+		<td class="Table-Body-Row-Cell">LHR</td>
+        <td class="Table-Body-Row-Cell">公共</td>
+    </tr>
+
+	
+    </tbody>
+</table>
+<h2>3組</h2>
+
+<table class="Table">
+    <thead class="Table-Head">
+    <tr class="Table-Head-Row">
+        <th class="Table-Head-Row-Cell">月曜日</th>
+        <th class="Table-Head-Row-Cell">火曜日</th>
+        <th class="Table-Head-Row-Cell">水曜日</th>
+		<th class="Table-Head-Row-Cell">木曜日</th>
+		<th class="Table-Head-Row-Cell">金曜日</th>
+    </tr>
+    </thead>
+    <tbody class="Table-Body">
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">化学基礎</td>
+        <td class="Table-Body-Row-Cell">数学1</td>
+        <td class="Table-Body-Row-Cell">EC1</td>
+		<td class="Table-Body-Row-Cell">現代の国語</td>
+        <td class="Table-Body-Row-Cell">言語文化</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">数学1</td>
+        <td class="Table-Body-Row-Cell">数学A</td>
+        <td class="Table-Body-Row-Cell">EC1</td>
+		<td class="Table-Body-Row-Cell">論理表現１</td>
+        <td class="Table-Body-Row-Cell">生物基礎</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">美術・音楽</td>
+        <td class="Table-Body-Row-Cell">化学基礎</td>
+        <td class="Table-Body-Row-Cell">体育</td>
+		<td class="Table-Body-Row-Cell">体育</td>
+        <td class="Table-Body-Row-Cell">数学1</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">美術・音楽</td>
+        <td class="Table-Body-Row-Cell">工業情報数理</td>
+        <td class="Table-Body-Row-Cell">保健</td>
+		<td class="Table-Body-Row-Cell">工業情報数理</td>
+        <td class="Table-Body-Row-Cell">公共</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">数学A</td>
+        <td class="Table-Body-Row-Cell">公共</td>
+        <td class="Table-Body-Row-Cell">生物基礎</td>
+		<td class="Table-Body-Row-Cell">物理基礎</td>
+        <td class="Table-Body-Row-Cell">工業技術基礎</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">論理表現１</td>
+        <td class="Table-Body-Row-Cell">現代の国語</td>
+        <td class="Table-Body-Row-Cell">科学技術探究</td>
+		<td class="Table-Body-Row-Cell">物理基礎</td>
+        <td class="Table-Body-Row-Cell">工業技術基礎</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">EC1</td>
+        <td class="Table-Body-Row-Cell">言語文化</td>
+        <td class="Table-Body-Row-Cell">科学技術探究</td>
+		<td class="Table-Body-Row-Cell">LHR</td>
+        <td class="Table-Body-Row-Cell">工業技術基礎</td>
+    </tr>
+
+	
+    </tbody>
+</table>
+<h2>4組</h2>
+
+<table class="Table">
+    <thead class="Table-Head">
+    <tr class="Table-Head-Row">
+        <th class="Table-Head-Row-Cell">月曜日</th>
+        <th class="Table-Head-Row-Cell">火曜日</th>
+        <th class="Table-Head-Row-Cell">水曜日</th>
+		<th class="Table-Head-Row-Cell">木曜日</th>
+		<th class="Table-Head-Row-Cell">金曜日</th>
+    </tr>
+    </thead>
+    <tbody class="Table-Body">
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">公共</td>
+        <td class="Table-Body-Row-Cell">数学1</td>
+        <td class="Table-Body-Row-Cell">EC1</td>
+		<td class="Table-Body-Row-Cell">論理表現１</td>
+        <td class="Table-Body-Row-Cell">生物基礎</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">数学1</td>
+        <td class="Table-Body-Row-Cell">言語文化</td>
+        <td class="Table-Body-Row-Cell">EC1</td>
+		<td class="Table-Body-Row-Cell">保健</td>
+        <td class="Table-Body-Row-Cell">現代の国語</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">美術・音楽</td>
+        <td class="Table-Body-Row-Cell">生物基礎</td>
+        <td class="Table-Body-Row-Cell">体育</td>
+		<td class="Table-Body-Row-Cell">体育</td>
+        <td class="Table-Body-Row-Cell">数学1</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">美術・音楽</td>
+        <td class="Table-Body-Row-Cell">工業情報数理</td>
+        <td class="Table-Body-Row-Cell">化学基礎</td>
+		<td class="Table-Body-Row-Cell">工業情報数理</td>
+        <td class="Table-Body-Row-Cell">論理表現１</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">言語文化</td>
+        <td class="Table-Body-Row-Cell">現代の国語</td>
+        <td class="Table-Body-Row-Cell">数学A</td>
+		<td class="Table-Body-Row-Cell">物理基礎</td>
+        <td class="Table-Body-Row-Cell">工業技術基礎</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">化学基礎</td>
+        <td class="Table-Body-Row-Cell">数学A</td>
+        <td class="Table-Body-Row-Cell">科学技術探究</td>
+		<td class="Table-Body-Row-Cell">物理基礎</td>
+        <td class="Table-Body-Row-Cell">工業技術基礎</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">EC1</td>
+        <td class="Table-Body-Row-Cell">公共</td>
+        <td class="Table-Body-Row-Cell">科学技術探究</td>
+		<td class="Table-Body-Row-Cell">LHR</td>
+        <td class="Table-Body-Row-Cell">工業技術基礎</td>
+    </tr>
+
+	
+    </tbody>
+</table>
+<h2>5組</h2>
+
+<table class="Table">
+    <thead class="Table-Head">
+    <tr class="Table-Head-Row">
+        <th class="Table-Head-Row-Cell">月曜日</th>
+        <th class="Table-Head-Row-Cell">火曜日</th>
+        <th class="Table-Head-Row-Cell">水曜日</th>
+		<th class="Table-Head-Row-Cell">木曜日</th>
+		<th class="Table-Head-Row-Cell">金曜日</th>
+    </tr>
+    </thead>
+    <tbody class="Table-Body">
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">数学1</td>
+        <td class="Table-Body-Row-Cell">生物基礎</td>
+        <td class="Table-Body-Row-Cell">数学A</td>
+		<td class="Table-Body-Row-Cell">EC1</td>
+        <td class="Table-Body-Row-Cell">数学1</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">論理表現１</td>
+        <td class="Table-Body-Row-Cell">論理表現１</td>
+        <td class="Table-Body-Row-Cell">体育</td>
+		<td class="Table-Body-Row-Cell">EC1</td>
+        <td class="Table-Body-Row-Cell">数学A</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">化学基礎</td>
+        <td class="Table-Body-Row-Cell">数学1</td>
+        <td class="Table-Body-Row-Cell">公共</td>
+		<td class="Table-Body-Row-Cell">保健</td>
+        <td class="Table-Body-Row-Cell">生物基礎</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">工業情報数理</td>
+        <td class="Table-Body-Row-Cell">現代の国語</td>
+        <td class="Table-Body-Row-Cell">工業情報数理</td>
+		<td class="Table-Body-Row-Cell">体育</td>
+        <td class="Table-Body-Row-Cell">言語文化</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">美術・音楽</td>
+        <td class="Table-Body-Row-Cell">工業技術基礎</td>
+        <td class="Table-Body-Row-Cell">言語文化</td>
+		<td class="Table-Body-Row-Cell">科学技術探究</td>
+        <td class="Table-Body-Row-Cell">化学基礎</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">美術・音楽</td>
+        <td class="Table-Body-Row-Cell">工業技術基礎</td>
+        <td class="Table-Body-Row-Cell">物理基礎</td>
+		<td class="Table-Body-Row-Cell">科学技術探究</td>
+        <td class="Table-Body-Row-Cell">EC1</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">公共</td>
+        <td class="Table-Body-Row-Cell">工業技術基礎</td>
+        <td class="Table-Body-Row-Cell">物理基礎</td>
+		<td class="Table-Body-Row-Cell">LHR</td>
+        <td class="Table-Body-Row-Cell">現代の国語</td>
+    </tr>
+
+	
+    </tbody>
+</table>
+<h2>6組</h2>
+
+<table class="Table">
+    <thead class="Table-Head">
+    <tr class="Table-Head-Row">
+        <th class="Table-Head-Row-Cell">月曜日</th>
+        <th class="Table-Head-Row-Cell">火曜日</th>
+        <th class="Table-Head-Row-Cell">水曜日</th>
+		<th class="Table-Head-Row-Cell">木曜日</th>
+		<th class="Table-Head-Row-Cell">金曜日</th>
+    </tr>
+    </thead>
+    <tbody class="Table-Body">
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">数学1</td>
+        <td class="Table-Body-Row-Cell">公共</td>
+        <td class="Table-Body-Row-Cell">言語文化</td>
+		<td class="Table-Body-Row-Cell">EC1</td>
+        <td class="Table-Body-Row-Cell">数学1</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">化学基礎</td>
+        <td class="Table-Body-Row-Cell">生物基礎</td>
+        <td class="Table-Body-Row-Cell">体育</td>
+		<td class="Table-Body-Row-Cell">EC1</td>
+        <td class="Table-Body-Row-Cell">生物基礎</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">現代の国語</td>
+        <td class="Table-Body-Row-Cell">数学1</td>
+        <td class="Table-Body-Row-Cell">保健</td>
+		<td class="Table-Body-Row-Cell">公共</td>
+        <td class="Table-Body-Row-Cell">現代の国語</td>
+    </tr>
+    <tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">工業情報数理</td>
+        <td class="Table-Body-Row-Cell">論理表現１</td>
+        <td class="Table-Body-Row-Cell">工業情報数理</td>
+		<td class="Table-Body-Row-Cell">体育</td>
+        <td class="Table-Body-Row-Cell">数学A</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">美術・音楽</td>
+        <td class="Table-Body-Row-Cell">工業技術基礎</td>
+        <td class="Table-Body-Row-Cell">化学基礎</td>
+		<td class="Table-Body-Row-Cell">科学技術探究</td>
+        <td class="Table-Body-Row-Cell">言語文化</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">美術・音楽</td>
+        <td class="Table-Body-Row-Cell">工業技術基礎</td>
+        <td class="Table-Body-Row-Cell">物理基礎</td>
+		<td class="Table-Body-Row-Cell">科学技術探究</td>
+        <td class="Table-Body-Row-Cell">EC1</td>
+    </tr>
+	<tr class="Table-Body-Row">
+        <td class="Table-Body-Row-Cell">数学A</td>
+        <td class="Table-Body-Row-Cell">工業技術基礎</td>
+        <td class="Table-Body-Row-Cell">物理基礎</td>
+		<td class="Table-Body-Row-Cell">LHR</td>
+        <td class="Table-Body-Row-Cell">論理表現１</td>
+    </tr>
+
+	
+    </tbody>
+</table>
+
+</section>
+
+</main>
+
+<div id="footermenu">
+    <ul>
+    <li class="title">メニュー</li>
+    <li><a href="index.html">ホーム</a></li>
+    <li><a href="faq.html">学年行事</a></li>
+    <li><a href="contact.html">お問い合わせ</a></li>
+    </ul>
+    <ul>
+    <li class="title">時間割</li>
+    <li><a href="1year.html">1年</a></li>
+    <li><a href="2year.html">2年</a></li>
+    <li><a href="#">3年</a></li>
+    </ul>
+    <ul>
+    <li class="title">課題</li>
+    <li><a href="#">1年</a></li>
+    <li><a href="#">2年</a></li>
+    <li><a href="#">3年</a></li>
+    </ul>
+    <ul>
+    <li class="title">テスト</li>
+    <li><a href="#">1年</a></li>
+    <li><a href="#">2年</a></li>
+    <li><a href="#">3年</a></li>
+    </ul>
+    </div>
+<!--/#footermenu-->
+
+<footer>
+<small>Copyright&copy; <a href="index.html">JOB INFO</a> All Rights Reserved.</small>
+<span class="pr"><a href="https://template-party.com/" target="_blank">《Web Design:Template-Party》</a></span>
+</footer>
+
+</div>
+<!--/#container-->
+
+<!--jQueryの読み込み-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<!--ピックアップスライドショー（slick）-->
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="js/slick.js"></script>
+
+<!--job4用のスクリプト-->
+<script src="js/main.js"></script>
+
+<!--ハンバーガーボタン（開閉操作のボタン）-->
+<div id="menubar_hdr"></div>
+
+<!--ページの上部へ戻るボタン-->
+<div class="pagetop"><a href="#">↑</a></div>
+
+</body>
+</html>
